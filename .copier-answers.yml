@@ -1,6 +1,6 @@
 ---
 ## Changes here will be overwritten by Copier; NEVER EDIT MANUALLY
-_commit: v1.3.2
+_commit: v1.3.3
 _src_path: gh:kc-workspace/asdf-plugin-template.git
 app_download_file: hub
 app_download_link: https://github.com/GrantBirki/hub/releases/download/v${version}/hub-${os}-${arch}-${version}.tgz
@@ -14,4 +14,5 @@ plugin_name: asdf-hub
 plugin_org: kc-workspace
 setting_os_mapper_darwin: darwin
 setting_os_mapper_linux: linux
+setting_test_command_arguments: --version
 settings_os_mapper_enabled: false
