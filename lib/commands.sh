@@ -7,7 +7,7 @@
 # export ASDF_PLUGIN_SCRIPT="$ASDF_PLUGIN_SCRIPT"
 # export ASDF_PLUGIN_PATH="$ASDF_PLUGIN_PATH"
 export ASDF_PLUGIN_APP_NAME="hub"
-export ASDF_PLUGIN_APP_REPO="https://github.com/github/hub"
+export ASDF_PLUGIN_APP_REPO="https://github.com/GrantBirki/hub"
 export ASDF_PLUGIN_NAME="asdf-hub"
 export ASDF_PLUGIN_REPO="https://github.com/kc-workspace/asdf-hub"
 
