@@ -1,6 +1,6 @@
 ---
 ## Changes here will be overwritten by Copier; NEVER EDIT MANUALLY
-_commit: v1.3.3-22-gcc588e8
+_commit: v1.3.3-22-g436fecd
 _src_path: .
 app_description: a command-line tool that makes git easier to use with GitHub.
 app_name: hub
