@@ -1,18 +1,28 @@
 ---
 ## Changes here will be overwritten by Copier; NEVER EDIT MANUALLY
-_commit: v1.3.3
-_src_path: gh:kc-workspace/asdf-plugin-template.git
-app_download_file: hub
-app_download_link: https://github.com/GrantBirki/hub/releases/download/v${version}/hub-${os}-${arch}-${version}.tgz
-app_download_type: directory
-app_git_repo: https://github.com/GrantBirki/hub
+_commit: v1.3.3-17-g42600e6
+_src_path: .
+app_description: a command-line tool that makes git easier to use with GitHub.
 app_name: hub
-app_strip_component: 1
-git_remote: https://github.com/kc-workspace/asdf-hub.git
+app_repo: https://github.com/github/hub
+app_version_prefix: v
+custom_arch_enabled: true
+custom_arch_yaml:
+    aarch64*: arm64
+    armv5*: arm
+    armv6*: arm
+    armv7*: arm
+    x86_64: amd64
+custom_non_stable_version: (-src|-dev|-latest|-stm|[-\.]rc|-alpha|-beta|[-\.]pre|-next|snapshot|master)
+custom_os_enabled: false
+download_checksum_enabled: false
+download_link: https://github.com/github/hub/releases/download/v{version}/hub-{os}-{arch}-{version}.tgz
+download_location: hub
+download_strip: 1
+download_type: archive-file
+install_type: directory
 plugin_author: Kamontat Chantrachirathumrong
 plugin_name: asdf-hub
 plugin_org: kc-workspace
-setting_os_mapper_darwin: darwin
-setting_os_mapper_linux: linux
-setting_test_command_arguments: --version
-settings_os_mapper_enabled: false
+plugin_repo: https://github.com/kc-workspace/asdf-hub
+test_cmd_args: --version
