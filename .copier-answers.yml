@@ -1,6 +1,6 @@
 ---
 ## Changes here will be overwritten by Copier; NEVER EDIT MANUALLY
-_commit: v1.3.3-40-g014ab0f
+_commit: v1.3.3-44-g07387b3
 _src_path: /Users/kamontat/Desktop/Personal/asdf-plugin-template
 app_desc: A command-line tool that makes git easier to use with GitHub.
 app_name: hub
