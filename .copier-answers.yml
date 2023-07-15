@@ -1,10 +1,26 @@
 ---
 ## Changes here will be overwritten by Copier; NEVER EDIT MANUALLY
-_commit: v1.3.3-50-gd56c40f
-_src_path: /Users/kamontat/Desktop/Personal/asdf-plugin-template
+_commit: v2.0.1
+_src_path: gh:kc-workspace/asdf-plugin-template.git
+addon_yaml:
+    archive: true
+    checksum: false
+    download: true
+    fetch: true
+    git: false
+    github: true
+    gpg: false
+    help: true
+    install: true
+    package: false
+    python: false
+    system: true
+    tags: true
+    version: true
 app_desc: A command-line tool that makes git easier to use with GitHub.
 app_name: hub
 app_repo: https://github.com/github/hub
+app_type: standalone
 app_website: https://hub.github.com
 archive_conf_path: ''
 archive_conf_strip: 1
