@@ -54,4 +54,4 @@
 
 ### Improvements
 
-* **deps:** upgrade templates for new features and bug fixes ([965251b](https://github.com/kc-workspace/asdf-hub/commit/965251bcc34161f4b2d84ccfaeaeecc3bc260980))
+* **deps:** upgrade templates ([965251b](https://github.com/kc-workspace/asdf-hub/commit/965251bcc34161f4b2d84ccfaeaeecc3bc260980))
