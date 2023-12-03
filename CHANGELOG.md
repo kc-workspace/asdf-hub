@@ -1,5 +1,18 @@
 # Changelog
 
+## [1.1.1](https://github.com/kc-workspace/asdf-hub/compare/v1.1.0...v1.1.1) (2023-12-03)
+
+
+### Improvements
+
+* update plugin from template [autocommit] ([0b5f3ab](https://github.com/kc-workspace/asdf-hub/commit/0b5f3ab088d53fdfb5f3f9ddf89f62f0029124ff))
+
+
+### Miscellaneous
+
+* **docs:** update typo on changelog ([074917a](https://github.com/kc-workspace/asdf-hub/commit/074917ae1ec088f461c3bf27197f46a8cf6970d2))
+* **docs:** update typo on changelog ([a06badf](https://github.com/kc-workspace/asdf-hub/commit/a06badffa9bffd5aed7b4feb2433c45fb7dda2c1))
+
 ## [1.1.0](https://github.com/kc-workspace/asdf-hub/compare/v1.0.0...v1.1.0) (2023-11-06)
 
 
