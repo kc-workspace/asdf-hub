@@ -1,5 +1,14 @@
 # Changelog
 
+## [1.1.1](https://github.com/kc-workspace/asdf-hub/compare/v1.1.0...v1.1.1) (2024-07-11)
+
+
+### Performance Improvements
+
+* **plugin:** update template version [bot] ([66813d3](https://github.com/kc-workspace/asdf-hub/commit/66813d3b995f531f7d4bc54ca9c2276399048568))
+* update plugin from template [autocommit] ([a8af133](https://github.com/kc-workspace/asdf-hub/commit/a8af13381c5d691e1497b5b269e9b602d2ef78c6))
+* update plugin from template [autocommit] ([0b5f3ab](https://github.com/kc-workspace/asdf-hub/commit/0b5f3ab088d53fdfb5f3f9ddf89f62f0029124ff))
+
 ## [1.1.0](https://github.com/kc-workspace/asdf-hub/compare/v1.0.0...v1.1.0) (2023-11-06)
 
 
